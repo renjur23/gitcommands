@@ -1,0 +1,11 @@
+> git init [to initialize git]
+
+> git status [to check all untracked files]
+
+> git add -A [to adding all untracked file to staging area ]
+
+> git commit -m "commit message" [to commit added files to local repositary]
+
+> git clone [to take extact copy from remote repositary to local repositary]
+
+> git pull [ to take changes from remote repositary to local repositary]
