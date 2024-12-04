@@ -9,3 +9,8 @@
 > git clone [to take extact copy from remote repositary to local repositary]
 
 > git pull [ to take changes from remote repositary to local repositary]
+
+> git push [ to sent changes from local repositary to remote repositary]
+
+> git config --list [to list cconfiguration]
+
